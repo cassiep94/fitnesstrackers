@@ -25,3 +25,6 @@ View multiple the combined weight of multiple exercises on the stats page.
 
 
 
+
+# Link 
+https://fitnesstracker18.herokuapp.com/exercise
